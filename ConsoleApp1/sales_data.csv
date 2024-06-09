@@ -1,0 +1,11 @@
+Date,ProductID,ProductName,Category,QuantitySold,PricePerUnit
+2024-06-01,101,Widget A,Gadgets,10,19.99
+2024-06-01,102,Widget B,Gadgets,5,29.99
+2024-06-01,103,Gadget C,Gadgets,7,14.99
+2024-06-01,201,Widget D,Widgets,3,9.99
+2024-06-01,202,Gadget E,Widgets,8,24.99
+2024-06-02,101,Widget A,Gadgets,2,19.99
+2024-06-02,202,Gadget E,Widgets,1,24.99
+2024-06-02,203,Widget F,Widgets,4,19.99
+2024-06-02,101,Widget A,Gadgets,3,19.99
+2024-06-02,102,Widget B,Gadgets,1,29.99
